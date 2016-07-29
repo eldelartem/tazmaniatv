@@ -26,7 +26,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Lista de canales tazmaniatv</summary>
-    <description lang="en">CANALES Y PELICULAS RETRASMITIDOS POR INTERNET Y OTRAS PLATAFORMAS</description>
+    <description lang="en">CANALES Y PELICULAS RETRANSMITIDOS POR INTERNET Y OTRAS PLATAFORMAS</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -36,7 +36,7 @@
 	<extension point="xbmc.addon.repository" name="tazmaniatv official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/eldelartem/tazmaniatv/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/eldelartem/tazmaniatv/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/kodimexico/miNuevoRepo/master</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/eldelartem/tazmaniatv/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>tazmaniatv official Repo</summary>
